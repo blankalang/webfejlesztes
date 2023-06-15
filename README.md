@@ -1,1 +1,1 @@
-# webfejlesztes
+# webfejlesztes tárgy beadandója
